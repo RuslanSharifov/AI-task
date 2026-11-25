@@ -5,5 +5,6 @@ requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.4.0",
     "matplotlib>=3.11.2",
+    "nltk>=3.10.4",
     "numpy>=2.5.5",
 ]
